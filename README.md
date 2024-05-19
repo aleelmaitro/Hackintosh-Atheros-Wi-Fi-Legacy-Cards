@@ -7,12 +7,12 @@ There are devices that work without adding any properties (they were used in som
 We extract this information from inside IO80211ElCap.kext/Contents/PlugIns/AirPortAtheros40.kext/Contents/Info.plist in the “IOKitPersonalities/Atheros Wireless LAN PCI/IONameMatch” section
 These are:
 
-pci168c,30 = 30000000 
-pci168c,2a = 2A000000 
-pci106b,0086 = 00860000 
-pci168c,1c = 1C000000 
-pci168c,23 = 23000000 
-pci168c,24 = 24000000
+pci168c,30 = 30000000  
+pci168c,2a = 2A000000  
+pci106b,0086 = 00860000  
+pci168c,1c = 1C000000  
+pci168c,23 = 23000000  
+pci168c,24 = 24000000 
 
 Researching these chips were used in these models:
 
