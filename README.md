@@ -1,6 +1,9 @@
 # Hackintosh Atheros Wiffi (Legacy Cards)
 Atheros Wiffi (“Legacy” Cards):
 
+This guide is to fix the problem when OCLP does not detect any devices to apply the patch and avoid having to force Wi-Fi patching to be enabled in OCLP as this guide details:
+https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/Enable_Features/WiFi_Sonoma.md#troubleshooting-force-enable-wi-fi-patching-in-oclp
+
 Let's keep in mind that the only "Atheros" chips that Apple uses in any Mac are few.
 
 There are devices that work without adding any properties (they were used in some Mac models) and only following the OCLP guide to enable them, so if we are using a board that contains any of these IDs it is not necessary to perform a Fake-ID.  
