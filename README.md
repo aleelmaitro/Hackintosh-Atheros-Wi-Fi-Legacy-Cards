@@ -3,8 +3,8 @@ Atheros Wiffi (“Legacy” Cards):
 
 Let's keep in mind that the only "Atheros" chips used by Apple in any Mac are:
 
-There are devices that work without adding any properties (they were used in some Mac models) and only following the OCLP guide to enable them, so if we are using a board that contains any of these IDs it is not necessary to perform a Fake-ID. 
-We extract this information from inside IO80211ElCap.kext/Contents/PlugIns/AirPortAtheros40.kext/Contents/Info.plist in the “IOKitPersonalities/Atheros Wireless LAN PCI/IONameMatch” section
+There are devices that work without adding any properties (they were used in some Mac models) and only following the OCLP guide to enable them, so if we are using a board that contains any of these IDs it is not necessary to perform a Fake-ID.  
+We extract this information from inside IO80211ElCap.kext/Contents/PlugIns/AirPortAtheros40.kext/Contents/Info.plist in the “IOKitPersonalities/Atheros Wireless LAN PCI/IONameMatch” section. 
 These are:
 
 pci168c,30 = 30000000  
