@@ -40,3 +40,11 @@ Steps to follow:
 2- It is essential to add these properties in the Device Properties: IOName, compatible and name (pci168c,XX), and also device-id (XX000000), where the "X" are the value that corresponds to the chip. 
 
 For this I also leave the configuration for two possible chips that, if used, we must edit the device paths.
+
+3- Make the modifications suggested in this guide that I leave below:
+https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/Enable_Features/WiFi_Sonoma.md#how-to-re-enable-previously-supported-wi-fi-cards-in-macos-sonoma-with-opencore-legacy-patcher
+
+4- Restart the computer and apply “Reset NVRAM”
+
+5- Apply OCLP
+
