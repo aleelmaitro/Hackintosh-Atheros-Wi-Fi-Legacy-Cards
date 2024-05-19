@@ -18,6 +18,7 @@ pci168c,24 = 24000000
 Researching these chips were used in these models:
 
 1- AR9280 = iMac11.X = IOName: pci168c,2a
+
 2- AR9380 = iMac12.X = IOName: pci168c,30
 
 We always assume that to make a Fake-ID we must look for a compatible device that is as similar as possible to the one we are going to fake.
