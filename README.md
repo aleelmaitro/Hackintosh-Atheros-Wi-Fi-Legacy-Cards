@@ -1,5 +1,5 @@
-# Hackintosh Atheros Wiffi (Legacy Cards)
-Atheros Wiffi (“Legacy” Cards):
+# Hackintosh Atheros Wi-Fi (Legacy Cards)
+Atheros Wi-Fi (“Legacy” Cards):
 
 This guide is to fix the problem when OCLP does not detect any devices to apply the patch and avoid having to force Wi-Fi patching to be enabled in OCLP as this guide details:
 https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/Enable_Features/WiFi_Sonoma.md#troubleshooting-force-enable-wi-fi-patching-in-oclp
